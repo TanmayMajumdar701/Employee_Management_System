@@ -1,5 +1,5 @@
 # Employee Management System
-A Java Swing-based desktop application for managing employee records.
+A Java Swing-based desktop application for managing employee records using MySQL. The application provides CRUD operations along with employee search and record management.
 # Features
 Add employee records <br>
 Update employee records <br>
