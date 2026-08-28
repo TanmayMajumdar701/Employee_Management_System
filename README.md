@@ -1,4 +1,4 @@
-# Employee_Management_System
+# Employee Management System
 A Java Swing-based desktop application for managing employee records.
 # Features
 Add employee records <br>
