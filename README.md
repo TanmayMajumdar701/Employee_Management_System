@@ -1,2 +1,13 @@
 # Employee_Management_System
-Developed a desktop-based CRUD application using Java in IntelliJ IDEA. Designed and managed the database using MySQL Workbench. Implemented add, update, delete, and search functionalities.
+A Java Swing-based desktop application for managing employee records.
+# Features
+Add employee records 
+Update employee records
+Delete employee records
+Search employee records
+Manage employee information
+# Technologies Used
+Java
+Java Swing
+MySQL
+MySQL Workbench
